@@ -136,6 +136,16 @@ body{
     font-weight: 100;
     letter-spacing: 2px;
   }
+
+  .footer p{
+    padding: 0px;
+    color: #ffffff;
+    font-family: 'Raleway',sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-align: center;
+  }
   
   a {
     cursor: default;
